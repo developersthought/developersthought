@@ -2,7 +2,7 @@
 
 # Developers Thought
 
-- A initiative to make technology as simple as possible.
+- An initiative to make understanding of technology as simple as possible.
 - As part of this initiative I teach the following technologies in the simplest possible manner:
   - Go
   - DevOps tools
