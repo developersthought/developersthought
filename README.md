@@ -1,4 +1,4 @@
-![Developers Thought](https://raw.githubusercontent.com/developersthought/developersthought/main/banner.jpg)
+![Developers Thought](https://raw.githubusercontent.com/developersthought/developersthought/main/banner_v1.jpg)
 
 # Developers Thought
 
