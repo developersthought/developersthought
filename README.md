@@ -38,4 +38,4 @@
 
 ## What's next?
 
-- [Extent kubectl CLI using plugins](https://github.com/developersthought/roadmap/issues/1)
+- [Extend kubectl CLI using plugins](https://github.com/developersthought/roadmap/issues/1)
