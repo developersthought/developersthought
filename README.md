@@ -33,9 +33,9 @@
 
 ## What's new?
 
-- [Demystify Pointers in Go](https://developersthought.in/go/2021/04/21/go-pointer.html)
 - [How to effectively Tag a Cloud Resource?](https://developersthought.in/cloud/terraform/2021/01/26/tag-cloud.html)
+- [A quick guide on How to extend kubectl with plugins?](https://developersthought.in/kubernetes/2021/06/19/extend-kubectl.html)
 
 ## What's next?
 
-- [A quick guide on How to extend kubectl with plugins?](https://github.com/developersthought/roadmap/issues/1)
+- Coming soon...
