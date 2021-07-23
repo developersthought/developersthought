@@ -38,4 +38,4 @@
 
 ## What's next?
 
-- Coming soon...
+- Why do you need Docker Compose?
