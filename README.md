@@ -24,7 +24,7 @@
 - Passionate about trending technologies and tools.
 - Creator of a "Developers Thought" [YouTube](https://www.youtube.com/developersthought) Channel and a [Blog](https://developersthought.in/). This is my main platform for knowledge sharing.
 - Other than YouTube Channel and Blog I also share knowledge through Meetups, Conferences and Webinars.
-- My area of interest is Hybrid Cloud, DevOps tools, and Infrastructure as a Code.
+- My area of interest is Hybrid Cloud, DevOps tools, & Infrastructure as a Code.
 
 ## Contact Me
 
