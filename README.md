@@ -38,4 +38,4 @@
 
 ## What's next?
 
-- Why do you need Docker Compose?
+- [Introduction to Docker Compose](https://github.com/developersthought/roadmap/issues/2)
