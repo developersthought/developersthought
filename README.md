@@ -33,9 +33,9 @@
 
 ## What's new?
 
-- [How to effectively Tag a Cloud Resource?](https://developersthought.in/cloud/terraform/2021/01/26/tag-cloud.html)
 - [A quick guide on How to extend kubectl with plugins?](https://developersthought.in/kubernetes/2021/06/19/extend-kubectl.html)
+- [Introduction to Docker Compose](https://youtu.be/4pt8fl90dAE)
 
 ## What's next?
 
-- [Introduction to Docker Compose](https://github.com/developersthought/roadmap/issues/2)
+- Something exciting...
