@@ -33,7 +33,7 @@
 
 ## What's new?
 
-- [A quick guide on How to extend kubectl with plugins?](https://developersthought.in/kubernetes/2021/06/19/extend-kubectl.html)
+- [Deploy a Microservice in Kubernetes with zero lines of code](https://developersthought.in/kubernetes/2021/09/22/go-no-code-with-gopaddle.html)
 - [Introduction to Docker Compose](https://youtu.be/4pt8fl90dAE)
 - [Twitter Challenge: Read Terraform Up & Running book 15 minutes daily](https://github.com/developersthought/roadmap/issues/3)
 
